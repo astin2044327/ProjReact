@@ -8,7 +8,7 @@ class About extends Component {
     render() { 
         return (
             
-            <h1> Ravidah Consulting Training and Consulting</h1>
+            <h1> Ravidah first Consulting Training and Consulting</h1>
          );
     }
 }
